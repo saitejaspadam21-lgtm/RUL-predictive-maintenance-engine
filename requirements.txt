@@ -12,3 +12,4 @@ ipykernel
 fastapi
 uvicorn[standard]
 pytest
+httpx
